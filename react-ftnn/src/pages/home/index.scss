@@ -1,0 +1,9 @@
+.outside {
+    overflow: hidden;
+
+    .inside {
+        height: 1000px;
+        overflow: auto;
+        background: #fff;
+    }
+}

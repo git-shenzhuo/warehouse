@@ -1,0 +1,20 @@
+.foot {
+    height: 50px;
+    width: 100%;
+    background: rgb(27, 27, 27);
+    display: flex;
+
+    .navlink {
+        width: 20%;
+        text-align: center;
+        color: rgb(175, 162, 162);
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+    }
+
+    i {
+        font-size: 22px;
+    }
+
+}

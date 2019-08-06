@@ -1,0 +1,576 @@
+{
+	"cinemas": [
+		{
+			"id": 106,
+			"mark": 0,
+			"nm": "金逸影城（太阳城IMAX店）",
+			"sellPrice": "43",
+			"addr": "白云区广州大道北1811号嘉裕太阳城广场3楼（南方医院正对面）",
+			"distance": "1.1km",
+			"tag": {
+				"allowRefund": 0,
+				"buyout": 0,
+				"cityCardTag": 0,
+				"deal": 0,
+				"endorse": 0,
+				"hallType": [
+					"IMAX厅",
+					"杜比全景声厅",
+					"DTS:X 临境音厅"
+				],
+				"hallTypeVOList": [
+					{
+						"name": "IMAX厅",
+						"url": ""
+					}, {
+						"name": "杜比全景声厅",
+						"url": ""
+					}, {
+						"name": "DTS:X 临境音厅",
+						"url": ""
+					}
+				],
+				"sell": 1,
+				"snack": 1,
+				"vipTag": "折扣卡"
+			},
+			"promotion": {
+				"cardPromotionTag": "开卡特惠，首单2张立减4元"
+			},
+			"showTimes": "14:10 | 14:55 | 15:30"
+		}, {
+			"id": 1644,
+			"mark": 0,
+			"nm": "华影梅花园影城",
+			"sellPrice": "39",
+			"addr": "白云区广州大道北28号梅花园商业广场5楼",
+			"distance": "1.2km",
+			"tag": {
+				"allowRefund": 0,
+				"buyout": 0,
+				"cityCardTag": 0,
+				"deal": 0,
+				"endorse": 1,
+				"hallType": [
+					"4K厅"
+				],
+				"hallTypeVOList": [
+					{
+						"name": "4K厅",
+						"url": ""
+					}
+				],
+				"sell": 1,
+				"snack": 1,
+				"vipTag": "折扣卡"
+			},
+			"promotion": {
+				"cardPromotionTag": "开卡特惠，首单2张立减6元"
+			},
+			"showTimes": "14:20 | 14:50 | 15:15"
+		}, {
+			"id": 27130,
+			"mark": 0,
+			"nm": "星汇影城（天河新天地广场店）",
+			"sellPrice": "38",
+			"addr": "天河区天源路5号天河新天地5楼（天河客运站D出口）",
+			"distance": "1.4km",
+			"tag": {
+				"allowRefund": 0,
+				"buyout": 0,
+				"cityCardTag": 0,
+				"deal": 0,
+				"endorse": 1,
+				"hallTypeVOList": [],
+				"sell": 1,
+				"snack": 1,
+				"vipTag": "折扣卡"
+			},
+			"promotion": {
+				"cardPromotionTag": "开卡特惠，首单2张立减6元"
+			},
+			"showTimes": "14:10 | 14:30 | 14:50"
+		}, {
+			"id": 25319,
+			"mark": 0,
+			"nm": "FUN范影城（燕塘·杜比巨幕）",
+			"sellPrice": "25.9",
+			"addr": "天河区燕岭路133号苏荷独立艺术园区内",
+			"distance": "1.7km",
+			"tag": {
+				"allowRefund": 0,
+				"buyout": 0,
+				"cityCardTag": 0,
+				"deal": 0,
+				"endorse": 1,
+				"hallType": [
+					"杜比全景声厅",
+					"4K厅",
+					"巨幕厅"
+				],
+				"hallTypeVOList": [
+					{
+						"name": "杜比全景声厅",
+						"url": ""
+					}, {
+						"name": "4K厅",
+						"url": ""
+					}, {
+						"name": "巨幕厅",
+						"url": ""
+					}
+				],
+				"sell": 1,
+				"snack": 1,
+				"vipTag": "折扣卡"
+			},
+			"promotion": {},
+			"showTimes": "14:35 | 15:05 | 15:35"
+		}, {
+			"id": 1410,
+			"mark": 0,
+			"nm": "横店电影城（高德汇店）",
+			"sellPrice": "39",
+			"addr": "天河区长兴路13号优托邦购物中心3楼（近天河客运站150米处）",
+			"distance": "1.8km",
+			"tag": {
+				"allowRefund": 0,
+				"buyout": 0,
+				"cityCardTag": 0,
+				"deal": 0,
+				"endorse": 0,
+				"hallType": [],
+				"hallTypeVOList": [],
+				"sell": 1,
+				"snack": 1,
+				"vipTag": "折扣卡"
+			},
+			"promotion": {
+				"cardPromotionTag": "限时¥28.8促销开卡，首单更优惠"
+			},
+			"showTimes": "14:20 | 14:50 | 15:10"
+		}, {
+			"id": 14695,
+			"mark": 0,
+			"nm": "中影凤凰影城（同和店）",
+			"sellPrice": "41",
+			"addr": "白云区广州大道北同和街1号金铂广场4楼",
+			"distance": "2.1km",
+			"tag": {
+				"allowRefund": 1,
+				"buyout": 0,
+				"cityCardTag": 0,
+				"deal": 0,
+				"endorse": 1,
+				"hallType": [
+					"4K厅"
+				],
+				"hallTypeVOList": [
+					{
+						"name": "4K厅",
+						"url": ""
+					}
+				],
+				"sell": 1,
+				"snack": 1,
+				"vipTag": "折扣卡"
+			},
+			"promotion": {},
+			"showTimes": "14:15 | 14:50 | 15:30"
+		}, {
+			"id": 1643,
+			"mark": 0,
+			"nm": "中影佰纳飞影电影城（天河店）",
+			"sellPrice": "36",
+			"addr": "天河区东莞庄路富力院士庭2楼（广东农垦总局对面）",
+			"distance": "3km",
+			"tag": {
+				"allowRefund": 0,
+				"buyout": 0,
+				"cityCardTag": 0,
+				"deal": 0,
+				"endorse": 0,
+				"hallTypeVOList": [],
+				"sell": 1,
+				"snack": 1,
+				"vipTag": "折扣卡"
+			},
+			"promotion": {
+				"cardPromotionTag": "开卡特惠，首单2张最高立减6元"
+			},
+			"showTimes": "14:05 | 14:45 | 15:20"
+		}, {
+			"id": 24249,
+			"mark": 0,
+			"nm": "UA东方宝泰电影城",
+			"sellPrice": "43",
+			"addr": "天河区林和中路63号101室",
+			"distance": "3.6km",
+			"tag": {
+				"allowRefund": 1,
+				"buyout": 0,
+				"cityCardTag": 0,
+				"deal": 0,
+				"endorse": 1,
+				"hallTypeVOList": [],
+				"sell": 1,
+				"snack": 1,
+				"vipTag": "折扣卡"
+			},
+			"promotion": {
+				"cardPromotionTag": "开卡特惠，首单2张立减6元"
+			},
+			"showTimes": "15:00 | 15:50 | 17:00"
+		}, {
+			"id": 25906,
+			"mark": 0,
+			"nm": "楼上友嘉影城（五山店）",
+			"sellPrice": "38",
+			"addr": "天河区茶山路251-261号二层（单号）",
+			"distance": "3.7km",
+			"tag": {
+				"allowRefund": 0,
+				"buyout": 0,
+				"cityCardTag": 0,
+				"deal": 0,
+				"endorse": 0,
+				"hallTypeVOList": [],
+				"sell": 1,
+				"snack": 1,
+				"vipTag": "折扣卡"
+			},
+			"promotion": {
+				"cardPromotionTag": "开卡特惠，首单2张立减6元"
+			},
+			"showTimes": "15:40 | 17:30 | 18:30"
+		}, {
+			"id": 25545,
+			"mark": 0,
+			"nm": "龙洞巨幕影城",
+			"sellPrice": "39.9",
+			"addr": "天河区迎龙路163号弘马众创城1楼（九龙城旁，橙子酒店对面）",
+			"distance": "3.9km",
+			"tag": {
+				"allowRefund": 0,
+				"buyout": 0,
+				"cityCardTag": 0,
+				"deal": 0,
+				"endorse": 1,
+				"hallTypeVOList": [],
+				"sell": 1,
+				"snack": 1,
+				"vipTag": "折扣卡"
+			},
+			"promotion": {},
+			"showTimes": "14:15 | 14:30 | 14:50"
+		}, {
+			"id": 2062,
+			"mark": 0,
+			"nm": "中影乐佳影城",
+			"sellPrice": "38",
+			"addr": "天河区天河北路705号曜和广场西3层",
+			"distance": "4.2km",
+			"tag": {
+				"allowRefund": 1,
+				"buyout": 0,
+				"cityCardTag": 0,
+				"deal": 0,
+				"endorse": 1,
+				"hallTypeVOList": [],
+				"sell": 1,
+				"snack": 1,
+				"vipTag": "折扣卡"
+			},
+			"promotion": {
+				"cardPromotionTag": "开卡特惠，首单最高立减30元！"
+			},
+			"showTimes": "14:30 | 15:30 | 16:20"
+		}, {
+			"id": 211,
+			"mark": 0,
+			"nm": "天河电影城（天娱广场店）",
+			"sellPrice": "39",
+			"addr": "天河区天河路623号天娱广场5楼（近地铁3号线岗顶站A出口）",
+			"distance": "4.8km",
+			"tag": {
+				"allowRefund": 0,
+				"buyout": 0,
+				"cityCardTag": 0,
+				"deal": 0,
+				"endorse": 1,
+				"hallType": [
+					"杜比全景声厅"
+				],
+				"hallTypeVOList": [
+					{
+						"name": "杜比全景声厅",
+						"url": ""
+					}
+				],
+				"sell": 1,
+				"snack": 1,
+				"vipTag": "折扣卡"
+			},
+			"promotion": {
+				"cardPromotionTag": "开卡特惠，首单2张立减6元"
+			},
+			"showTimes": "15:10 | 15:40 | 16:10"
+		}, {
+			"id": 26258,
+			"mark": 0,
+			"nm": "佰合兆影城（岗顶店）",
+			"sellPrice": "35",
+			"addr": "天河区天河路518号闲鱼美食港三楼（原南方电脑城）",
+			"distance": "5km",
+			"tag": {
+				"allowRefund": 0,
+				"buyout": 0,
+				"cityCardTag": 0,
+				"deal": 0,
+				"endorse": 1,
+				"hallType": [
+					"杜比全景声厅"
+				],
+				"hallTypeVOList": [
+					{
+						"name": "杜比全景声厅",
+						"url": ""
+					}
+				],
+				"sell": 1,
+				"snack": 1,
+				"vipTag": "折扣卡"
+			},
+			"promotion": {
+				"cardPromotionTag": "开卡特惠，首单2张最高立减6元"
+			},
+			"showTimes": "14:15 | 14:40 | 15:15"
+		}, {
+			"id": 27098,
+			"mark": 0,
+			"nm": "腾讯视频好时光影城（天河电脑城店）",
+			"sellPrice": "38",
+			"addr": "天河区天河电脑城3楼",
+			"distance": "5.1km",
+			"tag": {
+				"allowRefund": 1,
+				"buyout": 0,
+				"cityCardTag": 0,
+				"deal": 0,
+				"endorse": 1,
+				"hallTypeVOList": [],
+				"sell": 1,
+				"snack": 0,
+				"vipTag": "折扣卡"
+			},
+			"promotion": {
+				"cardPromotionTag": "开卡特惠，首单2张最高立减6元"
+			},
+			"showTimes": "16:20 | 17:05 | 18:55"
+		}, {
+			"id": 16408,
+			"mark": 0,
+			"nm": "百丽宫影城（天环店）",
+			"sellPrice": "44",
+			"addr": "天河区天环广场负一层B117铺",
+			"distance": "5.2km",
+			"tag": {
+				"allowRefund": 0,
+				"buyout": 0,
+				"cityCardTag": 0,
+				"deal": 0,
+				"endorse": 0,
+				"hallType": [
+					"RealD厅",
+					"LUXE巨幕厅"
+				],
+				"hallTypeVOList": [
+					{
+						"name": "RealD厅",
+						"url": ""
+					}, {
+						"name": "LUXE巨幕厅",
+						"url": ""
+					}
+				],
+				"sell": 1,
+				"snack": 1
+			},
+			"promotion": {},
+			"showTimes": "14:35 | 15:40 | 17:15"
+		}, {
+			"id": 210,
+			"mark": 0,
+			"nm": "飞扬影城（天河城店）",
+			"sellPrice": "39",
+			"addr": "天河区天河路208号天河城广场4楼",
+			"distance": "5.2km",
+			"tag": {
+				"allowRefund": 0,
+				"buyout": 0,
+				"cityCardTag": 0,
+				"deal": 0,
+				"endorse": 1,
+				"hallType": [
+					"杜比全景声厅"
+				],
+				"hallTypeVOList": [
+					{
+						"name": "杜比全景声厅",
+						"url": ""
+					}
+				],
+				"sell": 1,
+				"snack": 1,
+				"vipTag": "折扣卡"
+			},
+			"promotion": {
+				"cardPromotionTag": "开卡特惠，首单2张立减6元"
+			},
+			"showTimes": "14:25 | 15:00 | 15:45"
+		}, {
+			"id": 207,
+			"mark": 0,
+			"nm": "飞扬影城（正佳IMAX店）",
+			"sellPrice": "39",
+			"addr": "天河区天河路228号正佳购物广场7楼（近体育中心）",
+			"distance": "5.2km",
+			"tag": {
+				"allowRefund": 0,
+				"buyout": 0,
+				"cityCardTag": 0,
+				"deal": 0,
+				"endorse": 1,
+				"hallType": [
+					"IMAX厅",
+					"杜比全景声厅"
+				],
+				"hallTypeVOList": [
+					{
+						"name": "IMAX厅",
+						"url": ""
+					}, {
+						"name": "杜比全景声厅",
+						"url": ""
+					}
+				],
+				"sell": 1,
+				"snack": 1,
+				"vipTag": "折扣卡"
+			},
+			"promotion": {
+				"cardPromotionTag": "开卡特惠，首单2张立减6元"
+			},
+			"showTimes": "14:15 | 14:45 | 15:10"
+		}, {
+			"id": 25300,
+			"mark": 0,
+			"nm": "中影天川国际影城（永泰店）",
+			"sellPrice": "38",
+			"addr": "白云区丛云路945号嘉福商业广场三楼",
+			"distance": "5.5km",
+			"tag": {
+				"allowRefund": 0,
+				"buyout": 0,
+				"cityCardTag": 0,
+				"deal": 0,
+				"endorse": 0,
+				"hallTypeVOList": [],
+				"sell": 1,
+				"snack": 1,
+				"vipTag": "折扣卡"
+			},
+			"promotion": {},
+			"showTimes": "14:10 | 14:50 | 15:30"
+		}, {
+			"id": 26000,
+			"mark": 0,
+			"nm": "嘉莱影乐汇（白云安华汇店）",
+			"sellPrice": "38.8",
+			"addr": "白云区白云大道北880号安华汇A馆6楼",
+			"distance": "5.6km",
+			"tag": {
+				"allowRefund": 0,
+				"buyout": 0,
+				"cityCardTag": 0,
+				"deal": 0,
+				"endorse": 0,
+				"hallTypeVOList": [],
+				"sell": 1,
+				"snack": 1,
+				"vipTag": "折扣卡"
+			},
+			"promotion": {
+				"cardPromotionTag": "开卡特惠，首单2张立减6元"
+			},
+			"showTimes": "14:25 | 14:55 | 15:25"
+		}, {
+			"id": 26255,
+			"mark": 0,
+			"nm": "中影凤凰影城（永泰店）",
+			"sellPrice": "39",
+			"addr": "白云区永平街永康路45-53号宝湾广场5楼",
+			"distance": "5.7km",
+			"tag": {
+				"allowRefund": 0,
+				"buyout": 0,
+				"cityCardTag": 0,
+				"deal": 0,
+				"endorse": 0,
+				"hallType": [
+					"杜比全景声厅"
+				],
+				"hallTypeVOList": [
+					{
+						"name": "杜比全景声厅",
+						"url": ""
+					}
+				],
+				"sell": 1,
+				"snack": 1,
+				"vipTag": "折扣卡"
+			},
+			"promotion": {},
+			"showTimes": "14:45 | 15:40 | 16:35"
+		}
+	],
+	"movieId": "1218141",
+	"day": "2019-07-11",
+	"random": 1562824917403,
+	"paging": {
+		"hasMore": true,
+		"limit": 20,
+		"offset": 0,
+		"total": 217
+	},
+	"showDays": {
+		"dates": [
+			{
+				"date": "2019-07-11",
+				"isPredate": 0
+			}, {
+				"date": "2019-07-12",
+				"isPredate": 0
+			}, {
+				"date": "2019-07-13",
+				"isPredate": 0
+			}, {
+				"date": "2019-07-14",
+				"isPredate": 0
+			}, {
+				"date": "2019-07-15",
+				"isPredate": 0
+			}, {
+				"date": "2019-07-16",
+				"isPredate": 0
+			}, {
+				"date": "2019-07-17",
+				"isPredate": 0
+			}, {
+				"date": "2019-07-18",
+				"isPredate": 0
+			}
+		]
+	},
+	"resId": "1562824918483"
+}
